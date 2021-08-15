@@ -1,5 +1,0 @@
-some
-line
-is
-good
-
